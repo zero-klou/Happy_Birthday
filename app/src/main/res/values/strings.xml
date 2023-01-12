@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">С днюхой Илюху!</string>
+    <string name="signature_text">- от Руслана</string>
+</resources>
